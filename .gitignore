@@ -18,3 +18,4 @@ node_modules/
 
 # Outros arquivos do sistema
 .DS_Store
+*.npy
